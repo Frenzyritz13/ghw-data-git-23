@@ -1,13 +1,11 @@
 ## This is a funn demo repo
 
-- Ritvi!
+-   Ritvi!
 
-
-- Firos!!🙌🏻
+-   Firos!!🙌🏻 changed in cli for ghw hack week
 
 =======
-- kroenen
 
+-   kroenen
 
-- Emily!
-
+-   Emily!
