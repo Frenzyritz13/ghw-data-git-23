@@ -1,8 +1,8 @@
 ## This is a funn demo repo
 
--   Ritvi!
+-   Ritvi! changed in cli
 
--   Firos!!🙌🏻 -->changed in cli for ghw github sessoion
+-   Firos!!🙌🏻 -->changed in cli for ghw github session
 
 =======
 
