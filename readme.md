@@ -1,16 +1,9 @@
 ## This is a funn demo repo
 
-- Ritvi! changed in cli! Changed to show git pull!
+-   Ritvi! changed in cli
 
+-   Firos!!🙌🏻 -->changed in cli for ghw github session
 
-- Firos!!🙌🏻
+-   kroenen
 
-=======
-- kroenen
-
-
-- Emily!
-
-- Roshan
-  
-- Thedevhassan
+-   Emily!
