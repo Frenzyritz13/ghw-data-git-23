@@ -1,6 +1,6 @@
 ## This is a funn demo repo
 
-- Ritvi!
+- Ritvi! changed in cli
 
 
 - Firos!!🙌🏻
