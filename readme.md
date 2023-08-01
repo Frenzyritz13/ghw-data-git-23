@@ -12,5 +12,5 @@
   
 - Thedevhassan
 
-- Shaurya changed in cli!
+- Shaurya changed in cli! Changed to show git pull!
 
