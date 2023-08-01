@@ -2,15 +2,15 @@
 
 - Ritvi! changed in cli! Changed to show git pull!
 
-
 - Firos!!🙌🏻
 
-=======
 - kroenen
-
 
 - Emily!
 
 - Roshan
   
 - Thedevhassan
+
+- Shaurya changed in cli! Changed to show git pull!
+
