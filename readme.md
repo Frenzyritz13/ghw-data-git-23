@@ -2,7 +2,7 @@
 
 -   Ritvi!
 
--   Firos!!🙌🏻 changed in cli for ghw hack week
+-   Firos!!🙌🏻 -->changed in cli for ghw github session
 
 =======
 
