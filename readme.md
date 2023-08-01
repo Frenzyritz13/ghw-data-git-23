@@ -2,12 +2,10 @@
 
 - Ritvi! changed in cli! Changed to show git pull!
 
-
 - Firos!!🙌🏻
 
 =======
 - kroenen
-
 
 - Emily!
 
@@ -15,4 +13,5 @@
   
 - Thedevhassan
 
-- Shaurya
+- Shaurya changed in cli!
+
