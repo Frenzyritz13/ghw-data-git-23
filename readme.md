@@ -2,7 +2,7 @@
 
 -   Ritvi!
 
--   Firos!!🙌🏻 -->changed in cli for ghw github sessoion 10:00 am
+-   Firos!!🙌🏻 -->changed in cli for ghw github sessoion
 
 =======
 
